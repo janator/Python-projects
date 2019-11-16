@@ -11,5 +11,6 @@ For each user there're three available operations:
 * add new task;
 * delete task;
 * show to-do list.
+
  Realisation is also written in python. Bot works only when the main code is launched.
  
